@@ -1,5 +1,5 @@
 # EDA
-1. in EDA1 firstly just done normal Exploratory Data Analysis with red-wine dataset
+1. in Red-wine_EDA firstly just done normal Exploratory Data Analysis with red-wine dataset basic from starting to visualizing graph 
 
 2. In flight Dataset EDA and Feature Engineering mostly perform and slightly EDA.
 
