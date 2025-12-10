@@ -68,7 +68,7 @@ Only a small number of apps achieve a perfect 5.0 rating.
 
 ---
 
-## **5. Algerian Forest Fire Dataset - EDA and Feature Engineering ** 
+## **5. Algerian Forest Fire Dataset - EDA and Feature Engineering** 
 - other details in the file.
 
 
